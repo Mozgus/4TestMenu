@@ -22,6 +22,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.main);
 		
 		// Load UI components
+		editText1 = (EditText) findViewById(R.id.editText1);
 		textView1 = (TextView) findViewById(R.id.textView1);
 		
 		// Register UI component for Context menu
