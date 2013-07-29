@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">4TestMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="simple_text">This is the simple text.</string>
+    <string name="menu_item_copy">Copy</string>
+    <string name="menu_item_copy_of">Copy of</string>
+    <string name="menu_item_copy_all_text">Copy all text</string>
+    <string name="menu_item_copy_first_string">Copy first string</string>
+    <string name="mn_clear">mn_clear</string>
+    
+</resources>
