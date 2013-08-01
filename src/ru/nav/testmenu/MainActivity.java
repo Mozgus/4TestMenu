@@ -10,6 +10,10 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
+/*
+ * For GitHub realize
+ * */
+
 public class MainActivity extends Activity {
 	
 	// UI components
